@@ -3,7 +3,7 @@
 🚀 **Software developer | React.js, PHP e MySQL**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I build **scalable products** and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
@@ -14,10 +14,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/Barcelodev">
-    <img src="https://img.shields.io/badge/GitHub-GUILHERMEBARCELO-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-BarceloDev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/guibarcelo_?igsh=OWN3eWh2MzVkYTBl">
-    <img src="https://img.shields.io/badge/Instagram-@GUIBARCELO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@guibarcelo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -28,6 +28,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 - ⚡ Performance optimization
 - 🧩 Clean architecture & system design
 - 📊 Dashboards & analytics
+- ✉️ API Integration
 
 ---
 
@@ -47,7 +48,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### DevOps & Tools
+###Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -59,16 +60,16 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=barcelodev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelodev&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BarceloDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarceloDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Writing code is like sculpting or designing bridges: 
+> each line should support the future, connect people, and generate impact."_
 
 ---
 
