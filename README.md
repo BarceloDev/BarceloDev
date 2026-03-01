@@ -19,6 +19,9 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://www.instagram.com/guibarcelo_?igsh=OWN3eWh2MzVkYTBl">
     <img src="https://img.shields.io/badge/Instagram-@guibarcelo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+<a href="https://www.linkedin.com/in/guilherme-barcelo">
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Barcelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
