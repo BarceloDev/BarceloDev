@@ -28,10 +28,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 📊 Dashboards & analytics
-- ✉️ API Integration
+- ⚡ Performance Optimization
+- 🧩 Clean Architecture & System Design
+- 📊 Dashboards & Analytics
+- ✉️ API Creation and Integration
+- ⚙️ Complete Systems
 
 ---
 
@@ -44,7 +45,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
