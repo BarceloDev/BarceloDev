@@ -58,7 +58,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-2D2D2D?style=for-the-badge&logo=oracle&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
