@@ -1,6 +1,6 @@
 # Hi 👋, I'm Guilherme Barcelo
 
-🚀 **Software developer | React.js, PHP e MySQL**  
+🚀 **Software developer | React.js, Laravel e PostgreSQL**  
 🇧🇷 Brazil
 
 I build **scalable products** and **high-performance web systems**.  
