@@ -1,6 +1,6 @@
 # Hi 👋, I'm Guilherme Barcelo
 
-🚀 **Software developer | React.js, Laravel e PostgreSQL**  
+🚀 **Software developer | React.tsx, Laravel e PostgreSQL**  
 🇧🇷 Brazil
 
 I build **scalable products** and **high-performance web systems**.  
@@ -13,7 +13,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/Barcelodev">
+  <a href="https://github.com/BarceloDev">
     <img src="https://img.shields.io/badge/GitHub-BarceloDev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/guibarcelo_?igsh=OWN3eWh2MzVkYTBl">
@@ -41,6 +41,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,13 +69,6 @@ I also create content and share knowledge on **software development, SaaS, and t
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BarceloDev&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarceloDev&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Philosophy
-
-> _"Writing code is like sculpting or designing bridges: 
-> each line should support the future, connect people, and generate impact."_
 
 ---
 
