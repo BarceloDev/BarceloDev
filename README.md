@@ -30,7 +30,7 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 ## About Me
 
 - 👨‍💻 I'm **Guilherme Barcelo**, a software developer from Brazil.
-- 🎓 **Técnico em Desenvolvimento de Sistemas** student.
+- 🎓 Student of the **Systems Development Technician** course.
 - 🧱 Passionate about **software architecture** and **scalable systems**.
 - 🔧 Focused on **backend development**, with growing interest in **Cloud Computing** and **DevOps**.
 - 🚀 I enjoy building **real-world products** and solving **business problems through software**.
