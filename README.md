@@ -53,7 +53,7 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 
 ## Tech Stack
 
-**Backend Experience**
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -61,7 +61,7 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend Experience**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,14 +70,15 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-2D2D2D?style=for-the-badge&logo=oracle&logoColor=red)
 
 ---
@@ -109,43 +110,6 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 SaaS Project</h3>
-      <p>A subscription-based application focused on solving a real business need, built with clean architecture and a maintainable backend.</p>
-      <a href="https://github.com/BarceloDev">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Fullstack System</h3>
-      <p>End-to-end web system covering data modeling, API layer, and a functional interface — demonstrating product delivery from front to back.</p>
-      <a href="https://github.com/BarceloDev">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔌 Backend API</h3>
-      <p>RESTful API focused on solid structure, validation, and database design — emphasizing reliability and clear contracts.</p>
-      <a href="https://github.com/BarceloDev">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Future Spring Boot Project</h3>
-      <p>Upcoming project to consolidate my backend journey with Java & Spring Boot, applying testing, Docker, and CI/CD practices.</p>
-      <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=for-the-badge&logo=springboot&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -158,6 +122,9 @@ deepening my path in <b>Backend Engineering</b>. I'm growing my skills in
 </a>
 <a href="https://www.instagram.com/guibarcelo_?igsh=OWN3eWh2MzVkYTBl">
   <img src="https://img.shields.io/badge/Instagram-@guibarcelo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:guilhermebrcneves@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Guilherme,%0A%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.">
+  <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
